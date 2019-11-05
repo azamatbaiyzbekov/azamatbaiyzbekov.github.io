@@ -1,4 +1,4 @@
-link to my portfolo: azamatbaiyzbekov.github.io
+Link to my portfolo: azamatbaiyzbekov.github.io
 
 --------------------------------------------------------
 
